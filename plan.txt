@@ -21,5 +21,4 @@
 第3章完       基于AUTOSAR规范的车用电机控制器软件开发(朱元,2017)
 完            电动汽车动力电池系统设计与制造技术(王芳,2017)
 完            Advanced Model Based System Design(Marc Herniter,Zac Chambers).pdf
-
-第6章完       UML实用基础教程(赵春刚,2013)_13176389
+完            UML实用基础教程(赵春刚,2013)_13176389

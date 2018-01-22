@@ -22,3 +22,6 @@
 完            电动汽车动力电池系统设计与制造技术(王芳,2017)
 完            Advanced Model Based System Design(Marc Herniter,Zac Chambers).pdf
 完            UML实用基础教程(赵春刚,2013)_13176389
+
+
+第1.2节完     大规模锂离子电池管理系统(Davide Andrea,2010)_14142389.uvz

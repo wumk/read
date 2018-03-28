@@ -25,4 +25,4 @@
 完            大规模锂离子电池管理系统(Davide Andrea,2010)_14142389.uvz
 
 
-p.22完        精通比特币(第2版,Andreas M. Antonopoulos著,乔延宏等译).pdf
+第1章完       精通比特币(第2版,Andreas M. Antonopoulos著,乔延宏等译).pdf

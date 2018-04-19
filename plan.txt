@@ -23,7 +23,7 @@
 完            Advanced Model Based System Design(Marc Herniter,Zac Chambers).pdf
 完            UML实用基础教程(赵春刚,2013)_13176389
 完            大规模锂离子电池管理系统(Davide Andrea,2010)_14142389.uvz
+完            精通比特币(第2版,Andreas M. Antonopoulos著,乔延宏等译).pdf
 
 
-第11章完      精通比特币(第2版,Andreas M. Antonopoulos著,乔延宏等译).pdf
 开始          机器学习(周志华,2016)_13974463.uvz
